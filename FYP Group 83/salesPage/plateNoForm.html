@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <script src="../jquery/jquery-1.11.1.min.js"></script>
+          <script>
+              
+              
+              $(document).ready(function() {
+              $("#plateno_submit").click(function(){
+    
+ 
+  var platenoVal=$('#carNumber').val();
+  //alert(platenoVal);
+   $.ajax({
+            type: "POST",
+            url: "platenoSelect.php",
+            data: {plateno: platenoVal},
+            success: function(data){
+                $('#result').html(data);
+            }
+          
+            
+        });//ajax end tag
+    });//click function end tag
+    
+    });
+              
+              </script>
+              
+    </head>
+    <body>
+        <div>TODO write content</div>
+<!--        <form method='post' action='platenoSelect.php'>-->
+            <input id='carNumber' name='plateno'/>
+            <button id='plateno_submit'>Submit</button>
+            <div id='result'>
+            </div>
+<!--        </form>-->
+        
+        
+    </body>
+</html>

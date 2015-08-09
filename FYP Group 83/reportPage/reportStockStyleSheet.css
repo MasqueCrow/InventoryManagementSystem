@@ -1,0 +1,109 @@
+
+body 
+{ 
+    font-size: 140%; 
+}
+
+#example_wrapper 
+{
+    margin-left:auto;
+    margin-right:auto;
+    width: 80%;
+
+}
+#DivforGraph
+{
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;  
+    margin-top:10%;
+}
+#dropdownMenus
+{
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.modal-bigmenu
+{
+    width:30%;
+    height:90%;
+}
+.modal-body
+{
+    max-height:500px;
+    overflow:auto;    
+}
+#part_no_label
+{
+    margin-left:5%;
+    margin-top:5%;
+}
+
+
+
+#part_category
+{
+    margin-top:5%;
+}
+
+#part_name_label
+{
+    margin-left:1%;
+    margin-top:5%;
+    width:100px;
+
+}
+
+#car_make_label
+{
+    margin-left:1%;
+    margin-top:5%;
+}
+
+#car_make
+{
+    margin-top:5%;
+}
+
+
+#car_model_label
+{
+    margin-left:1%;
+    margin-top:5%;
+}
+
+#car_model
+{
+    margin-top:5%;
+}
+
+
+
+#exitBtn
+{
+    background-color:skyblue; 
+    border-color:skyblue;
+    margin-top:1%;
+    margin-left:1%;
+    margin-bottom:1%;
+    padding: 5px 20px 5px 20px;
+    margin-bottom:21%;
+}
+
+#resetBtn{
+    margin-left:1%;
+    margin-bottom:20%;
+}
+
+
+#purchaseOrder
+{
+    background-color:orange;
+    border-color: orange;
+    margin-left:60%; 
+    padding: 5px 20px 5px 20px; 
+    margin-bottom:20%;
+
+}
+

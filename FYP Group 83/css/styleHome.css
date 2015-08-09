@@ -1,0 +1,502 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 2, 2014, 6:19:30 PM
+    Author     : RebeccaGoh
+*/
+
+body{
+    /*    background-color:black;*/
+    padding-top:80px;
+  
+    background-size: 1280px 700px;
+    background-repeat: no-repeat;
+    width: 1280px;
+    margin: 0 auto;
+        height: 100%;
+
+}
+/*start nav bar*/
+.navbar {
+    -webkit-box-shadow: 0px 0px 20px rgba(51,153,153,.9);
+    -moz-box-shadow: 0px 0px 20px rgba(51,153,153,.9);
+    box-shadow: 0px 0px 20px rgba(51,153,153,.9);
+    z-index: 100;
+}
+
+.navbar-brand{
+    font-family: Georgia;
+    font-size:19px;
+    text-align: center;
+    font-weight: bold;
+    margin:0px;
+    padding-top: 17px;
+    padding-bottom: 15px;
+    padding-left: 7%;
+
+}
+
+.navbar-default .navbar-brand  {
+    color: black;
+}
+
+.navbar-default, .navbar-fixed-top {
+    color:white;
+    background-color: white;
+    padding-top:7px;
+    margin:0px;
+    padding:0 0 10px 0;
+    height: 75px; /* Whatever you want. */
+
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
+
+
+.navbar-fixed-bottom{
+    margin:0px;
+    padding-top:0px;
+    height:60px;
+}
+
+.navbar-right{
+    padding-right: 7%;
+    padding-top: 8px;
+    font-family:sans-serif;
+    font-size :14px;
+    color:black;
+}
+
+.navbar-left{
+    padding-top: 23px;
+    font-size :14px;
+    padding-left: 7%;
+    color:black;
+}
+/*end nav bar*/
+
+/*start nav bar*/
+.gridHomepage{
+    padding-left: 8.5%; 
+    padding-right: 8.5%; 
+    padding-top:60px;
+    margin: 0 auto;
+    width: 100%;
+    height:100px; 
+}
+
+
+.homepageGridSales, .homepageGridInventory, .homepageGridReport{
+    color:white;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    font-size: 25px;
+    padding:5px;
+    margin-top:0%;
+    text-align: center;
+    opacity: 1.0;
+      background: #339999;
+
+}
+
+
+.homepageImageSales, .homepageImageInv, .homepageImageReport{
+    opacity: 0.5;
+}
+
+.homepageImageSales:hover, .homepageImageInv:hover, .homepageImageReport:hover{
+    opacity: 1.0;
+}
+
+
+/*end Inventory page end*/
+
+.salesExistCus{
+    font-size: 16px;
+    background-color: rgba(00, 00, 00, 0.6);
+    color:white;
+    height:auto;
+    width:40%;
+    /*        margin-left:3.5%;*/
+    padding-top:15px;
+    padding-left:10%;
+    padding-bottom:15px;
+    /*        margin-bottom: 100px;*/
+    float: left;
+    position:relative;
+
+
+}
+
+.salesExistCus h2{
+    padding-bottom:20px;
+    font-size:20px;
+}
+
+.salesTransaction{
+    font-size: 16px;
+    border:solid #6E6E6E;
+    color:#585858;
+    height:383px;
+    padding-left:2.5%;
+    width:60%;
+    padding-top:12px;
+    float: right;
+    position:relative;   
+}
+.salesTransaction h2{
+    font-size:20px;
+}
+
+
+
+.salesCarVerif{
+
+
+    font-size: 16px;
+    width: 45%;
+    height:65%; 
+
+    float:left;
+    /*       padding-top:2px;
+            margin-top:25px;
+                 margin-bottom:35px;
+                 padding-bottom: 10px;*/
+    background-color: rgba(00, 00, 00, 0.6);
+    color:white;
+}
+.salesCarVerif h2{
+    padding-left:23.5%;
+    padding-bottom:2%;
+    font-size: 20px;
+}
+
+.salesCarverif .form-group{
+    padding-left:15%;
+
+}
+
+.salesNewcustomer {
+    float:left;
+    width: 55%;
+    background-color: rgba(00, 00, 00, 0.3);
+    color:white;
+    height:auto; 
+    font-size: 16px;
+    margin-bottom:20%;
+
+}
+.salesNewcustomer h2{
+    padding-left:13%;
+    padding-bottom:2%;
+    font-size: 20px;
+}
+.salesNewcustomer .form-group{
+    padding-right: 13.5%;
+
+}
+
+.navbar-static-bottom{
+    margin-bottom:0px;
+    padding-bottom: 0px;
+}
+/*.salesBox2{
+  float: left;
+ margin-left: 10%;
+     position:relative;
+      width:370px;
+}*/
+
+.salesBox1 h2, .salesBox2 h2{
+    font-size:25px;
+}
+
+/*img {
+    opacity: 0.7;
+    filter: alpha(opacity=40);  For IE8 and earlier 
+
+}
+img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);  For IE8 and earlier 
+}*/
+
+.breadcrumb{
+    background-color:white;
+    font-size:15px;
+    padding-left: 10.5%;
+
+}
+
+.headerJobSheet{
+    margin-left:9%;
+}
+
+.inputJobsheet{
+    width:1000px;
+    margin-left:10.5%;
+    margin-bottom: 10%;
+    padding-bottom: 20%;
+}
+
+.inputJobsheet h1{
+    margin-left: 10px;
+}
+
+.inputJobsheet table table-bordered th tr{
+    margin-left: 10px;
+}
+
+
+
+.inventorySelector{
+    background-color: rgba(00, 00, 00, 0.6);
+
+    width:25%;
+    height:100%;
+    float:left;
+    position:relative;
+    padding-top:2px;
+
+    color:white;
+    padding: 2px 10px 15px 10%;
+    font-size:16px;
+    /*       top right btm left*/
+
+}
+
+.inventorySelector h1{
+    font-size: 20px;
+    margin-top:30px;
+    padding: 5px;
+}
+
+.inventorySelector .radio{
+    padding:5px;
+}
+
+.inventorySelector .form-group{
+    padding: 0px;
+    margin: 0px;
+}
+.inventoryDatabase{
+    margin: 0 auto;
+    width: 100%;
+    height:auto; 
+    padding: 35px 20px 15px 2.5%;
+    background:#ccc;
+    color:white;
+
+}
+
+table 		{ border-right:1px solid #999; border-bottom:1px solid #999;font-size: 13px; }
+th	{ background:#ccc; padding:5px; border-left:1px solid #999; border-top:1px solid #999; }
+td	{ padding:5px; border:solid 1px #999; }
+
+.invetoryDataEntry{
+    height:auto; 
+}
+.inventoryForm{
+
+    position:relative;
+    float:right;
+    width: 70%;
+
+
+    font-size:16px;
+
+    padding: 2px 10px 55px 3.5%;
+    background:#ccc;
+    color:white;
+}
+.inventoryForm h1{
+    font-size: 20px;
+    margin-top:30px;
+}
+
+/*start Inventory page start*/
+.gridReportHomepage{
+
+    padding-left:  10.5%; 
+    padding-right: 55px;
+    padding-top:80px;
+    margin: 0 auto;
+    width: 100%;
+    height:100px; 
+}
+.gridReportSales, .gridReportStockLevel{
+
+    float:left;
+    width:47.0%;
+    margin: 3px;
+    height:305px;
+    /*   border:5px solid black;*/
+}
+
+.gridReportSales{
+    margin-right:0.5px;
+    margin-right:0.5px;
+    border-right:1px solid #adadad;
+    border-left:1px solid #adadad;
+}
+
+.gridReportStockLevel{
+    margin-left:0.5px;
+    margin-right:0.5px;
+    border-left:1px solid #adadad;
+    border-right:1px solid #adadad;
+}
+
+.gridReportStockLevel h1, .gridReportSales h1{
+    color:white;
+    text-transform: uppercase;
+    background: black;
+    font-size: 30px;
+    margin-top:25%;
+    text-align: center;
+    opacity: 1.0;
+
+}
+
+.reportStock{
+    margin-left: 100px;
+    padding-left:200px;
+    background: black;
+    width:500px;
+}
+
+/*Inventory Page*/
+
+.poMenu{
+
+    font-size: 16px;
+    background-color: rgba(00, 00, 00, 0.6);
+    color:white;
+    height:auto;
+    width:30%;
+    /*        margin-left:3.5%;*/
+    padding-top:15px;
+    padding-left:10%;
+    padding-bottom:15px;
+    margin-bottom: 100px;
+    float: left;
+    position:relative;
+
+
+}
+
+.poMenu h2{
+    padding-bottom:20px;
+    font-size:20px;
+}
+.poMenu .col-sm-10{
+    margin-bottom: 15px;
+
+
+}
+.poTransaction{
+    font-size: 16px;
+    border:solid #6E6E6E;
+    color:#585858;
+    /*        height:382px;*/
+    height:auto;
+    padding-left:2.5%;
+    width:70%;
+    padding-top:12px;
+padding-bottom:70px; 
+    float: right;
+    position:relative;   
+}
+.poTransaction h2{
+    padding-bottom: 20px;
+    margin-left:3%;
+    font-size:20px;
+}
+
+.poTransaction .form-horizontal{
+    margin-right: 5%;
+}
+
+
+.poView{
+    font-size: 16px;
+    border:solid #6E6E6E;
+    color:#585858;
+    /*        height:382px;*/
+    height:auto;
+    padding-left:2.5%;
+    width:70%;
+    padding-top:12px;
+
+    float: right;
+    position:relative;   
+}
+.poView h2{
+    font-size:20px;
+}
+
+.poSupplier{
+    font-size: 16px;
+    border:solid #6E6E6E;
+    color:#585858;
+    /*        height:382px;*/
+    height:auto;
+    padding-left:2.5%;
+    width:70%;
+    padding-top:12px;
+
+    float: right;
+    position:relative;   
+}
+
+.poButton{
+    float:left; margin-left:10px; margin-top:44px;
+}
+
+.poSupplierView h2{
+    padding-left:1%;
+    padding-bottom: 10px;
+    font-size:20px;
+}
+
+.poSupplierView{
+    padding-bottom:12%;
+}
+.poSupplierInfo{
+    padding-left:10px;
+}
+.poSupplierInfo h2{
+
+
+    padding-bottom: 10px;
+    font-size:20px;
+    padding-right: 30%;
+
+}
+.poSupplierView .form-horizontal{
+    margin-top:10px;
+}
+
+/*end inventory*/
+
+.adminInfo{
+    width:auto;
+    height:auto;
+    background-color: rgba(00, 00, 00, 0.6);
+    padding: 10px 0 50px 0;
+    color:white;
+}
+
+.adminInfo h2{
+    padding-left:43%;
+    padding-bottom: 10px;
+    font-size:20px;
+}
+
+
+

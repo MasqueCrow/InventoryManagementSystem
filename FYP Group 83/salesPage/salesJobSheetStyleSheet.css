@@ -1,0 +1,95 @@
+
+#addBtn
+{
+padding: 5px 20px 5px 20px; 
+margin-bottom:2%;
+}
+h1
+{
+margin-left:5%;    
+}
+
+#rowlabel
+{
+margin-top:0.6%;
+}
+#getnumRows
+{
+width:10%;
+}
+
+#add
+{
+margin-left:20%; 
+margin-top:-3.4%; 
+}
+
+#del
+{
+margin-left:30%;
+margin-top:-4.9%; 
+}
+
+#delrownote
+{
+margin-left:43%;
+margin-top:-4%;
+}
+.stockicon
+{
+margin:9px 0 0 12px;
+}
+
+#subTotal
+{
+margin-left:75%;
+margin-top:1%;
+}
+
+#gstlabel
+{
+
+margin-left:77%; 
+margin-top:2%; 
+}
+#gst
+{
+margin-left:-33%;
+margin-top:30%;
+}
+#grandtot
+{
+margin-left:75%; 
+margin-top:1%;  
+}
+
+#grandtotal
+{
+margin-top:14%;
+}
+
+#creatPurchaseOrder
+{
+padding: 5px 12px 5px 12px;
+background-color:orange;
+ border-color: orange;
+margin: 2% 1% 0% 60%;
+}
+#resetBtn
+{
+background-color:#87CEEB; 
+padding: 5px 12px 5px 12px;
+margin: 2% 0% 0%;
+}
+
+#submit
+{
+padding: 5px 12px 5px 12px; 
+margin: 2% 4% 0% 1%;
+}
+#nextBtn
+{
+padding: 5px 12px 5px 12px;
+margin: 2% -33% 0% -3%;
+}
+

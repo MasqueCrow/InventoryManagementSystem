@@ -1,0 +1,45 @@
+<html>
+<head>
+    
+<link rel="stylesheet" type="text/css" href="Pie.css">
+   
+<title>Flot Bar Chart</title>
+<h1> Stocks Level</h1>
+
+
+
+<script type="text/javascript" language="javascript" src="jquery-1.11.2.min.js"></script>
+<script type="text/javascript" language="javascript" src="jquery.flot.js"></script>
+ <script type="text/javascript" language="javascript" src="jquery.flot.pie.js"></script>
+<script type="text/javascript">
+    
+    
+var data = [
+    {label: "IE" , data: 20, color: "#4572A7"},
+    {label: "Firefox" , data: 30, color: "#AA4643"},
+    {label: "Chrome" , data: 40, color: "#89A54E"},
+    {label: "Safari", data: 5, color: "#80699B"},
+    {label: "Opera", data: 3, color: "#3D96AE"},
+    {label: "other", data: 2, color: "#3D96AE"}
+    ];
+ 
+$(document).ready(function () {
+    $.plot($("#placeholder"), data, {
+        series: {
+        pie: {
+                show: true
+            }
+        },
+        legend :{
+            labelBoxBorderColor: "none"
+            }
+    });
+});
+</script>
+</head>
+ 
+<body>
+ 
+   
+</body>
+</html>
