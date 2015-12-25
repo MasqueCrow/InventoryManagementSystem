@@ -13,8 +13,9 @@
   *  Set password: 'inventory123' <br/>
   *  Check 'SELECT,INSERT,UPDATE,DELETE' in global priviledges under Users column <br/>
 
-<h2>Login Account</h2> <br/>
+<h2>Login Account</h2>
 Username:admin <br/>
 Password:admin <br/>
 
 <h2>Screen Shot</h2>
+![GitHub Logo](/create_user_page.png)
