@@ -1,3 +1,7 @@
+Learn You PLT for Greater Good
+===
+
+
 <h1>FYP Inventory Management System </h1>
 
 <h2>Description</h2>
