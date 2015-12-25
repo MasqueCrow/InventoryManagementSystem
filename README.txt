@@ -1,10 +1,17 @@
- 1.Download and install Easyphp Dev Server 14.1 VC11
+<h1>FYP Inventory Management System </h1>
+
+<h2>Description</h2>
+<p>This is a small scale web-based inventory system that we have built to suit the needs of our client, Lian Fuat Motor Work, in their stock take of inventory, manage of purchase order and creation of sales  </p>
+
+<h2>Configuration</h2>
+<ul>
+<li>1.Download and install Easyphp Dev Server 14.1 VC11</li>
 2.Import the database file 'final_inventory_management_system.sql' into phpMyAdmin after creating a new database
 3.Import the source codes into the Easyphp project folder
 4.Configure the phpMyAdmin authentication information
 Set username to be 'InvUser01',password 'inventory123' and global priviledges
 to 'SELECT,INSERT,UPDATE,DELETE' under Users column in phpMyAdmin
-
+</ul>
 Login account:
 Username:admin
 Password:admin
