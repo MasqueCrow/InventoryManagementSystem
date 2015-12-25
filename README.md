@@ -30,13 +30,13 @@ Password:admin <br/>
 <h3>Supplier Purchase Order</h3>
  <h4>Purchase Order to Supplier</h4>
  ![Supplier Purchase Order](IVM Pics/new_supp_po_page.png)
- <h4>Supplier Itemr</h4>
+ <h4>Supplier Item</h4>
  ![Supplier Item](IVM Pics/new_supplier_item_page.png)
  <h4>Supplier Purchase Order Part Quantity</h4>
  ![Supplier Purchase Order Part Quantity](IVM Pics/po_part_quantity_page.png)
 
 <h3>Graph Report</h3>
- <h4>Supplier Stock Report</h4>
+ <h4>Stock Report</h4>
  ![Stock Report](IVM Pics/stock_report_page.png)
  <h4>Invetory Stock Report</h4>
  ![Supplier Item Qty Report](IVM Pics/item_qty_graph_page.png)
