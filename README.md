@@ -18,4 +18,4 @@ Username:admin <br/>
 Password:admin <br/>
 
 <h2>Screen Shot</h2>
-![GitHub Logo](/create_user_page.png)
+![GitHub Logo](IVM Pics/create_user_page.png)
