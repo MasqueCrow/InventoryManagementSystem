@@ -18,4 +18,19 @@ Username:admin <br/>
 Password:admin <br/>
 
 <h2>Screen Shot</h2>
-![GitHub Logo](IVM Pics/create_user_page.png)
+
+<h3>Customer Purchase Order</h3>
+![Customer Purchase Order](IVM Pics/new_cust_po_page.png)
+![Customer Vehicle](IVM Pics/vehicle_page.png)
+![Customer Quotation](IVM Pics/quotation_page.png)
+
+<h3>Supplier Purchase Order</h3>
+![Supplier Purchase Order](IVM Pics/new_supp_po_page.png)
+![Supplier Item](IVM Pics/new_supplier_item_page.png)
+![Supplier Purchase Order Part Quantity](IVM Pics/po_part_quantity_page.png)
+
+<h3>Graph Report</h3>
+![Supplier Stock Report](IVM Pics/stock_report_page.png)
+![Supplier Item Qty Report](IVM Pics/item_qty_graph_page.png)
+
+
