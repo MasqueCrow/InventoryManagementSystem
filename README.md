@@ -9,9 +9,9 @@
 2.Import database file 'final_inventory_management_system.sql' into the new database <br/>
 3.Import source codes into Easyphp project folder <br/>
 4.Configure authentication information as followed: <br/>
-  a.Set username:'InvUser01' <br/>
-  b.Set password: 'inventory123' <br/>
-  c.Check 'SELECT,INSERT,UPDATE,DELETE' in global priviledges under Users column <br/>
+  *a.Set username:'InvUser01' <br/>
+  *b.Set password: 'inventory123' <br/>
+  *c.Check 'SELECT,INSERT,UPDATE,DELETE' in global priviledges under Users column <br/>
 
 <h2>Login Account</h2> <br/>
 Username:admin <br/>
