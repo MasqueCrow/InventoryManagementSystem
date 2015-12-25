@@ -21,7 +21,9 @@ Password:admin <br/>
 
 <h3>Customer Purchase Order</h3>
 ![Customer Purchase Order](IVM Pics/new_cust_po_page.png)
+---
 ![Customer Vehicle](IVM Pics/vehicle_page.png)
+---
 ![Customer Quotation](IVM Pics/quotation_page.png)
 
 <h3>Supplier Purchase Order</h3>
