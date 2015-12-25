@@ -20,21 +20,25 @@ Password:admin <br/>
 <h2>Screen Shot</h2>
 
 <h3>Customer Purchase Order</h3>
-
-<h4>Customer Purchase Order</h4>
-![Customer Purchase Order](IVM Pics/new_cust_po_page.png)
-<h4>Search Customer Vehicle</h4>
-![Customer Vehicle](IVM Pics/vehicle_page.png)
----
-![Customer Quotation](IVM Pics/quotation_page.png)
+ <h4>Customer Purchase Order</h4>
+ ![Customer Purchase Order](IVM Pics/new_cust_po_page.png)
+ <h4>Search Customer Vehicle</h4>
+ ![Customer Vehicle](IVM Pics/vehicle_page.png)
+ <h4>Create Customer Quotation</h4>
+ ![Customer Quotation](IVM Pics/quotation_page.png)
 
 <h3>Supplier Purchase Order</h3>
-![Supplier Purchase Order](IVM Pics/new_supp_po_page.png)
-![Supplier Item](IVM Pics/new_supplier_item_page.png)
-![Supplier Purchase Order Part Quantity](IVM Pics/po_part_quantity_page.png)
+ <h4>Purchase Order to Supplier</h4>
+ ![Supplier Purchase Order](IVM Pics/new_supp_po_page.png)
+ <h4>Supplier Itemr</h4>
+ ![Supplier Item](IVM Pics/new_supplier_item_page.png)
+ <h4>Supplier Purchase Order Part Quantity</h4>
+ ![Supplier Purchase Order Part Quantity](IVM Pics/po_part_quantity_page.png)
 
 <h3>Graph Report</h3>
-![Supplier Stock Report](IVM Pics/stock_report_page.png)
-![Supplier Item Qty Report](IVM Pics/item_qty_graph_page.png)
+ <h4>Supplier Stock Report</h4>
+ ![Stock Report](IVM Pics/stock_report_page.png)
+ <h4>Invetory Stock Report</h4>
+ ![Supplier Item Qty Report](IVM Pics/item_qty_graph_page.png)
 
 
