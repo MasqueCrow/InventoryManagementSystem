@@ -26,7 +26,7 @@ Password:admin <br/>
 
 
 <h3>Customer Purchase Order</h3>
- <h4>Customer Purchase Order</h4>
+ <h4>Purchase Order for Customer</h4>
  ![Customer Purchase Order](IVM Pics/new_cust_po_page.png)
  <h4>Search Customer Vehicle</h4>
  ![Customer Vehicle](IVM Pics/vehicle_page.png)
