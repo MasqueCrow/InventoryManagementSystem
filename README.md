@@ -18,6 +18,12 @@ Username:admin <br/>
 Password:admin <br/>
 
 <h2>Screen Shot</h2>
+ <h4>Login Page</h4>
+ ![Login Page](IVM Pics/login_page.png)
+  <h4>Main Menu</h4>
+ ![Main Menu](IVM Pics/homepage.png)
+
+
 
 <h3>Customer Purchase Order</h3>
  <h4>Customer Purchase Order</h4>
