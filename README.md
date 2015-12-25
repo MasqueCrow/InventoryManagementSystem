@@ -13,6 +13,13 @@
   *b.Set password: 'inventory123' <br/>
   *c.Check 'SELECT,INSERT,UPDATE,DELETE' in global priviledges under Users column <br/>
 
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+
+
 <h2>Login Account</h2> <br/>
 Username:admin <br/>
 Password:admin <br/>
