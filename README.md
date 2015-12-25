@@ -44,7 +44,7 @@ Password:admin <br/>
 <h3>Graph Report</h3>
  <h4>Stock Report</h4>
  ![Stock Report](IVM Pics/stock_report_page.png)
- <h4>Invetory Stock Report</h4>
+ <h4>Inventory Stock Report</h4>
  ![Supplier Item Qty Report](IVM Pics/item_qty_graph_page.png)
 
 
