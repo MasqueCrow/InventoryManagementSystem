@@ -1,7 +1,7 @@
 <h1>FYP Inventory Management System </h1>
 
 <h2>Description</h2>
-<p>This is a small scale web-based inventory system that we have built to suit the needs of our client, Lian Fuat Motor Work, in their stock take of inventory, manage of purchase order and creation of sales  </p>
+<p>This is a small scale web-based inventory system prototype that we have built to suit the needs of our client, Lian Fuat Motor Work, in their stock take of inventory, manage of purchase order and creation of sales  </p>
 
 <h2>Configuration</h2>
 1.Install Easyphp Dev Server 14.1 VC11 <br/>
