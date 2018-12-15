@@ -1,0 +1,16 @@
+Configuration
+1.Install Easyphp Dev Server 14.1 VC11 
+2.Import database file 'final_inventory_management_system.sql' 
+3.Import source codes into Easyphp project folder 
+
+4.Create new PhpMyAdmin User: 
+ 
+-Set username:'InvUser01'  
+-Set password: 'inventory123' 
+  
+Check 'SELECT,INSERT,UPDATE,DELETE' in global priviledges under Users column 
+5. Login Account:
+-
+Username:admin 
+-
+Password:admin 
