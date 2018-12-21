@@ -1,4 +1,4 @@
-# InventoryManagementSystem
+# Inventory Management System
 
 ## Description
 This is a customised web-based inventory system that was built for our client, Lian Huat Motor Work, to ease their administrative work and increase accuracy for taking inventory stocks of vehicle parts.  
